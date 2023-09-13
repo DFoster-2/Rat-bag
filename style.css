@@ -1,4 +1,4 @@
-@media screen and (min-width: 1920px) {
+
   body{
     --colut-pri: #707070;
     --cole-der-pri: #363636;
@@ -106,7 +106,7 @@
   .scrrnwith{
     display: none;
   }
-}
+
 
 @media screen and (max-width: 1024px) {
   .ThePinThing{
